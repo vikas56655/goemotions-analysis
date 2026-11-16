@@ -1,0 +1,9 @@
+[project]
+name = "goemotions-analysis"
+version = "1.0.0"
+description = "Reproducible multi-label emotion detection with interpretable baselines and an optional transformer."
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

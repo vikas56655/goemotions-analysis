@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="350" viewBox="0 0 1080 350">
+<rect width="1080" height="350" rx="24" fill="#0d1426"/>
+<text x="50" y="53" font-family="Arial,sans-serif" font-size="29" font-weight="700" fill="#f3f6ff">EMOTION ATLAS</text>
+<text x="50" y="82" font-family="Arial,sans-serif" font-size="15" fill="#a8b9d8">Reproducible multi-label emotion recognition</text>
+<g font-family="Arial,sans-serif" text-anchor="middle">
+<rect x="48" y="140" rx="16" width="204" height="105" fill="#203451" stroke="#5276a5"/>
+<text x="150" y="184" font-size="19" fill="white" font-weight="bold">GoEmotions</text><text x="150" y="210" font-size="14" fill="#bbcee7">Train / val / test</text>
+<path d="M254 191h48" stroke="#68d8d0" stroke-width="4"/><path d="m298 183 12 8-12 8" fill="#68d8d0"/>
+<rect x="312" y="140" rx="16" width="204" height="105" fill="#203451" stroke="#5276a5"/>
+<text x="414" y="184" font-size="19" fill="white" font-weight="bold">TF-IDF</text><text x="414" y="210" font-size="14" fill="#bbcee7">Words + bigrams</text>
+<path d="M518 191h48" stroke="#68d8d0" stroke-width="4"/><path d="m562 183 12 8-12 8" fill="#68d8d0"/>
+<rect x="576" y="140" rx="16" width="204" height="105" fill="#203451" stroke="#5276a5"/>
+<text x="678" y="184" font-size="19" fill="white" font-weight="bold">28 Classifiers</text><text x="678" y="210" font-size="14" fill="#bbcee7">Logistic regression</text>
+<path d="M782 191h48" stroke="#68d8d0" stroke-width="4"/><path d="m826 183 12 8-12 8" fill="#68d8d0"/>
+<rect x="840" y="140" rx="16" width="192" height="105" fill="#13493f" stroke="#45be9d"/>
+<text x="936" y="184" font-size="19" fill="white" font-weight="bold">Emotion Explorer</text><text x="936" y="210" font-size="14" fill="#b0f2d8">Probabilities + plots</text>
+</g>
+<text x="54" y="305" font-family="Arial,sans-serif" font-size="15" fill="#a8b9d8">Optional research track: DistilBERT fine-tuning and comparative evaluation</text>
+</svg>
